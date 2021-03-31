@@ -1,0 +1,33 @@
+###  Linux commands to remember  ###
+
+#Displays the date
+  $ date
+
+#To change the password
+  $ passwd
+  
+#Display the first 10 lines of file
+  $ head filename
+  for last lines 
+  $ tail filename
+  to get specipic lines we can type 
+  tail -n 3 file name
+  
+#to get history for the previous usage 
+  $ history
+  
+###Useful command line-editing shortcuts
+
+Ctrl+a            Jump to the beginning of the command line.
+Ctrl+e            Jump to the end of the command line.
+Ctrl+u            Clear from the cursor to the beginning of the command line.
+Ctrl+k             Clear from the cursor to the end of the command line.
+Ctrl+Left Arrow     Jump to the beginning of the previous word on the command line. 
+Ctrl+Right Arrow    Jump to the beginning of the next word on the command line. 
+Ctrl+r              Search the history list of commands for apattern.
+
+
+
+
+
+
