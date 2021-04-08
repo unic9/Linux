@@ -26,7 +26,10 @@ Ctrl+Left Arrow     Jump to the beginning of the previous word on the command li
 Ctrl+Right Arrow    Jump to the beginning of the next word on the command line. 
 Ctrl+r              Search the history list of commands for apattern.
 
-##
+##to see hostname
+hostname
+##to see the which OS running
+cat /etc/*os*rel*
 
 
 
