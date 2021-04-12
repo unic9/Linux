@@ -30,6 +30,19 @@ Ctrl+r              Search the history list of commands for apattern.
 hostname
 ##to see the which OS running
 cat /etc/*os*rel*
+##to see which shell u r in
+echo $SHELL
+
+##to check what all processes are running we can do by command 
+ps -ef
+
+
+## to create a tar(zip) file  
+tar -cvf add.tar * (#it will create and add files to add.tar in the existing folder)
+
+to see files in the tar file 
+tar -tvf add.tar
+
 
 
 
