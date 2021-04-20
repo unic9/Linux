@@ -44,6 +44,15 @@ to see files in the tar file
 tar -tvf add.tar
 
 
+##more command(u get information on initial lines, by pressesing enter u get more information)
+more tmp/testfile.txt
+
+##
+
+
+
+
+
 
 
 
